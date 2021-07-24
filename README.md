@@ -1,7 +1,7 @@
 # music-recommender-rest-api
 A music recommendation REST API which makes a machine learning algorithm work with the Django REST Framework 
 
-![alt text](https://github.com/ReaperZ0v/music-recommender-rest-api/blob/main/model/music-recommender.dot)
+![alt text](https://github.com/ReaperZ0v/music-recommender-rest-api/blob/main/model/graphviz.png)
 
 ## How it works
 The REST API has a simple operational flow which goes like so :
