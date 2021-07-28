@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+pandas 
+numpy
+scikit-learn 
+djangorestframework 
+=======
+pandas
+djangorestframework 
+scikit-learn 
+numpy 
+>>>>>>> 431f6406198bba4f3eda8da9044cbb1474234441
